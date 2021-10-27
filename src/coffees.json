@@ -1,0 +1,129 @@
+[
+  {
+    "skuBase": "K001",
+    "name": "Limu",
+    "preparation": "filter",
+    "price": 9.9,
+    "image": "https://www.coffeecircle.com/media/image/26/20/53/limu_freisteller_shopware_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [
+        { "label": "whole beans", "code": "001" },
+        { "label": "ground", "code": "002" }
+      ]
+    }
+  },
+  {
+    "skuBase": "K003",
+    "name": "Espresso Sidamo",
+    "preparation": "espresso",
+    "price": 11.9,
+    "image": "https://www.coffeecircle.com/media/image/94/df/8f/sidamo_freisteller_shopware_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [
+        { "label": "whole beans", "code": "001" },
+        { "label": "ground", "code": "002" }
+      ]
+    }
+  },
+  {
+    "skuBase": "K009",
+    "name": "Buna Dimaa",
+    "preparation": "filter",
+    "price": 8.9,
+    "image": "https://www.coffeecircle.com/media/image/9f/d8/f4/duna-dimaa_freisteller_shopware_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [
+        { "label": "whole beans", "code": "001" },
+        { "label": "ground", "code": "002" }
+      ]
+    }
+  },
+  {
+    "skuBase": "K029",
+    "name": "Espresso Grano Gayo",
+    "preparation": "espresso",
+    "price": 12.9,
+    "image": "https://www.coffeecircle.com/media/image/d4/4a/4c/grano-gayo_freisteller_shopware_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [
+        { "label": "whole beans", "code": "001" },
+        { "label": "ground", "code": "002" }
+      ]
+    }
+  },
+  {
+    "skuBase": "K039",
+    "name": "Decaf",
+    "preparation": "filter",
+    "price": 10.9,
+    "image": "https://www.coffeecircle.com/media/image/43/1a/40/decaf-kaffee_freisteller_shopware_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [
+        { "label": "whole beans", "code": "001" },
+        { "label": "ground", "code": "002" }
+      ]
+    }
+  },
+  {
+    "skuBase": "K063",
+    "name": "APAS Coffee",
+    "preparation": "filter",
+    "price": 14.9,
+    "image": "https://www.coffeecircle.com/media/image/52/1a/6e/coffee-circle-APAS-1_600x600.jpg",
+    "variants": {
+      "size": [{ "label": "350 g", "code": "0350" }],
+      "grind": [{ "label": "whole beans", "code": "001" }]
+    }
+  },
+  {
+    "skuBase": "K073",
+    "name": "Espresso Da Bastilla",
+    "preparation": "espresso",
+    "price": 14.9,
+    "image": "https://www.coffeecircle.com/media/image/1d/b2/bc/da_bastilla_espresso_freisteller_2000x2000_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [
+        { "label": "whole beans", "code": "001" },
+        { "label": "ground", "code": "002" }
+      ]
+    }
+  },
+  {
+    "skuBase": "K088",
+    "name": "Bookisa coffee",
+    "preparation": "filter",
+    "price": 15.9,
+    "image": "https://www.coffeecircle.com/media/image/f3/f8/fc/Bookisa-Kaffee_600x600.jpg",
+    "variants": {
+      "size": [
+        { "label": "350 g", "code": "0350" },
+        { "label": "1 kg", "code": "1000" }
+      ],
+      "grind": [{ "label": "whole beans", "code": "001" }]
+    }
+  }
+]

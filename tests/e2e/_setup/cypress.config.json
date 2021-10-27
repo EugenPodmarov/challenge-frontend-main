@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://localhost:3000/",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "tests/_reports/cypress/results.xml"
+  },
+  "fixturesFolder": "tests/e2e/fixtures",
+  "integrationFolder": "tests/e2e/tests",
+  "pluginsFile": "tests/e2e/_setup/plugins/index.js",
+  "screenshotsFolder": "tests/e2e/_artifacts/screenshots",
+  "supportFile": "tests/e2e/_setup/support/index.js",
+  "videosFolder": "tests/e2e/_artifacts/videos"
+}
